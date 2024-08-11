@@ -1,0 +1,53 @@
+html,
+body {
+    height: 100%;
+}
+
+body {
+    padding-top: 0px;
+    padding-bottom: 0px;
+    background-color: #f5f5f5;
+}
+
+.form-signin {
+    width: 100%;
+    max-width: 100%;
+    padding: 5px;
+    margin: auto;            
+}
+
+.bola {
+    border-radius: 100%; width: 1.6em; height: 1.6em; line-height: 1.4em;
+}
+
+.bolaPrincipal {
+    border-radius: 100%; width: 3em; height: 3em; line-height: 2em;
+}
+
+.bolaResultado {
+    border-radius: 100%; width: 2.2em; height: 2.2em; line-height: 1.9em;
+}
+
+.bg-danger{
+    background: radial-gradient(#FF7070, #500000)!important;
+}
+
+.bg-secondary{
+    background: radial-gradient(#777777, #111111)!important;
+}
+
+.bg-success{
+    background: radial-gradient(#555555, #000000)!important;
+}
+
+.bg-primary{
+    background: radial-gradient(#7070FF, #000050)!important;
+}
+
+.bg-warning{
+    background: radial-gradient(#FFFFFF, #FFAA00)!important;
+}
+
+.text-white{
+    text-shadow: 2px 2px 4px #000000!important;
+}
